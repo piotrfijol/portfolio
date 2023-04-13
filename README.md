@@ -1,6 +1,6 @@
 # Portfolio
 
-## [InvoAcademy](https://platform.invo.academy/) projects
+## [InvoAcademy](https://platform.invo.academy/) projects [HTML, SCSS, JS]
 
 
 In every repository where I solve InvoAcademy exercises there is a **Design.fig** [Figma](https://www.figma.com/) file included 
