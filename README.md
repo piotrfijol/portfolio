@@ -4,8 +4,8 @@
 
 
 In every repository where I solve InvoAcademy exercises there is a **Design.fig** [Figma](https://www.figma.com/) file included 
-(that InvoAcademy provided me with) that shows the exact design of the page. Additionally I was 
-told about requirements as to how the webpage should behave and feel.
+(that InvoAcademy provided me with) that shows the exact design of the page. Additionally I received 
+requirements as to how the webpage should behave and feel.
 
 
 ### 1. Areas of AI
