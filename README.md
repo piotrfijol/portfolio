@@ -1,5 +1,15 @@
 # Portfolio
 
+## Projects [React]
+
+### 1. Countdown Timer
+
+A launch countdown timer app. Here is the [link to the exercise](https://www.frontendmentor.io/challenges/launch-countdown-timer-N0XkGfyz-). Since I don't own a premium account I couldn't access the design file so I had to follow the screenshots.
+
+[Preview](https://piotrfijol.github.io/countdown-timer)
+
+[Source code](https://github.com/piotrfijol/countdown-timer)
+
 ## [InvoAcademy](https://platform.invo.academy/) projects [HTML, SCSS, JS]
 
 
