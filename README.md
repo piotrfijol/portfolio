@@ -12,8 +12,8 @@ A launch countdown timer app. Here is the [link to the exercise](https://www.fro
 
 ### 2. Landwind landing page
 
-In this project I wrote a code in React for a landing page. The design for the page isn't mine. I found it on [Figma's website](https://www.figma.com/community/file/1125744163617429490) it was made by [this user](https://www.figma.com/@themesberg). To create this project
-I used TailwindCSS and some of the Flowbite's components.
+In this project I wrote a code for a landing page using React, TailwindCSS and some of the Flowbite's components. 
+The design for the page was created by [Themesberg](https://www.figma.com/@themesberg), it can be found on [Figma's website](https://www.figma.com/community/file/1125744163617429490).
 
 [Preview](https://piotrfijol.github.io/landwind-landing-page)
 
