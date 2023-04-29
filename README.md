@@ -8,6 +8,8 @@ A launch countdown timer app. Here is the [link to the exercise](https://www.fro
 
 [Preview](https://piotrfijol.github.io/countdown-timer)
 
+[Source code](https://github.com/piotrfijol/countdown-timer)
+
 ### 2. Landwind landing page
 
 In this project I wrote a code in React for a landing page. The design for the page isn't mine. I found it on [Figma's website](https://www.figma.com/community/file/1125744163617429490) it was made by [this user](https://www.figma.com/@themesberg). To create this project
