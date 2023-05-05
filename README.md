@@ -8,7 +8,7 @@
 
 
 
-## <a id="react"></a> [React] projects
+## <a id="react"></a> React projects
 
 ### 1. Countdown Timer
 
