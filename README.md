@@ -2,8 +2,9 @@
 
 ## Table of Contents
 
-- [React projects](#react)
 - [HTML, SCSS, JS projects](#html-scss-js)
+- [React projects](#react)
+- [Fullstack projects](#fullstack)
 
 
 
@@ -67,5 +68,12 @@ The designs for projects 1-5 come from [InvoAcademy](https://platform.invo.acade
 
 [Source code](https://github.com/piotrfijol/spotify-page)
 
+## <a id="fullstack"></a>  Fullstack projects
+
+### 1. [MERN] Isntagram project
+
+[Source code](https://github.com/piotrfijol/isntagram)
+
+~Preview~ (currently unavailable)
 
 
