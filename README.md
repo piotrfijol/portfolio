@@ -7,27 +7,6 @@
 - [Fullstack projects](#fullstack)
 
 
-
-## <a id="react"></a> React projects
-
-### 1. Countdown Timer
-
-A launch countdown timer app. Here is the [link to the exercise](https://www.frontendmentor.io/challenges/launch-countdown-timer-N0XkGfyz-). Since I don't own a premium account I couldn't access the design file, therefore I had to follow the screenshots.
-
-[Preview](https://piotrfijol.github.io/countdown-timer)
-
-[Source code](https://github.com/piotrfijol/countdown-timer)
-
-### 2. Landwind landing page
-
-In this project I wrote a code for a landing page using React, TailwindCSS and some of the Flowbite's components. 
-The design for the page was created by [Themesberg](https://www.figma.com/@themesberg), it can be found on [Figma's website](https://www.figma.com/community/file/1125744163617429490).
-
-[Preview](https://piotrfijol.github.io/landwind-landing-page)
-
-[Source code](https://github.com/piotrfijol/landwind-landing-page)
-  
-
 ## <a id="html-scss-js"></a> [HTML, SCSS, JS] projects
 
 
@@ -67,6 +46,27 @@ The designs for projects 1-5 come from [InvoAcademy](https://platform.invo.acade
 [Preview](https://piotrfijol.github.io/spotify-page)
 
 [Source code](https://github.com/piotrfijol/spotify-page)
+
+
+## <a id="react"></a> React projects
+
+### 1. Countdown Timer
+
+A launch countdown timer app. Here is the [link to the exercise](https://www.frontendmentor.io/challenges/launch-countdown-timer-N0XkGfyz-). Since I don't own a premium account I couldn't access the design file, therefore I had to follow the screenshots.
+
+[Preview](https://piotrfijol.github.io/countdown-timer)
+
+[Source code](https://github.com/piotrfijol/countdown-timer)
+
+### 2. Landwind landing page
+
+In this project I wrote a code for a landing page using React, TailwindCSS and some of the Flowbite's components. 
+The design for the page was created by [Themesberg](https://www.figma.com/@themesberg), it can be found on [Figma's website](https://www.figma.com/community/file/1125744163617429490).
+
+[Preview](https://piotrfijol.github.io/landwind-landing-page)
+
+[Source code](https://github.com/piotrfijol/landwind-landing-page)
+  
 
 ## <a id="fullstack"></a>  Fullstack projects
 
