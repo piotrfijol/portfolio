@@ -76,7 +76,7 @@ The design for the page was created by [Themesberg](https://www.figma.com/@theme
 
 ~Live Preview~ (currently unavailable)
 
-### [PHP Yii2] Computers' language
+### 2. [PHP Yii2] Computers' language
 
 [Source code]https://github.com/piotrfijol/computers-language
 
