@@ -15,37 +15,27 @@ The designs for projects 1-5 come from [InvoAcademy](https://platform.invo.acade
 
 ### 1. Areas of AI
 
-[Preview](https://piotrfijol.github.io/areas-of-ai)
-
-[Source code](https://github.com/piotrfijol/areas-of-ai)
+[Preview](https://piotrfijol.github.io/areas-of-ai) &nbsp;  [Source code](https://github.com/piotrfijol/areas-of-ai)
 
 
 ### 2. Simplified order summary
 
-[Preview](https://piotrfijol.github.io/simplified-order-summary)
-
-[Source code](https://github.com/piotrfijol/simplified-order-summary)
+[Preview](https://piotrfijol.github.io/simplified-order-summary)  &nbsp;  [Source code](https://github.com/piotrfijol/simplified-order-summary)
 
 
 ### 3. Pricing page
 
-[Preview](https://piotrfijol.github.io/pricing-page)
-
-[Source code](https://github.com/piotrfijol/pricing-page)
+[Preview](https://piotrfijol.github.io/pricing-page)  &nbsp;  [Source code](https://github.com/piotrfijol/pricing-page)
 
 
 ### 4. PayTo form page
 
-[Preview](https://piotrfijol.github.io/payto-form)
-
-[Source code](https://github.com/piotrfijol/payto-form)
+[Preview](https://piotrfijol.github.io/payto-form)  &nbsp;  [Source code](https://github.com/piotrfijol/payto-form)
 
 
 ### 5. Spotify page
 
-[Preview](https://piotrfijol.github.io/spotify-page)
-
-[Source code](https://github.com/piotrfijol/spotify-page)
+[Preview](https://piotrfijol.github.io/spotify-page)  &nbsp;  [Source code](https://github.com/piotrfijol/spotify-page)
 
 
 ## <a id="react"></a> React projects
