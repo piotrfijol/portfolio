@@ -58,6 +58,16 @@ The design for the page was created by [Themesberg](https://www.figma.com/@theme
 [Source code](https://github.com/piotrfijol/landwind-landing-page)
   
 
+### 3. Weather app
+
+Web application that provides weather information for any location. 
+Some of the tools that were used to create this project: TypeScript, SASS, React, Context API, React Query, OpenWeatherMap API and Vitest for unit testing
+I'm the author of both, the code and the design.
+
+[Preview](https://piotrfijol.github.io/weather)
+
+[Source code](https://github.com/piotrfijol/weather)
+
 ## <a id="fullstack"></a>  Fullstack projects
 
 ### 1. [MERN] Isntagram project
