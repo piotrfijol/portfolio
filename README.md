@@ -44,18 +44,14 @@ The designs for projects 1-5 come from [InvoAcademy](https://platform.invo.acade
 
 A launch countdown timer app. Here is the [link to the exercise](https://www.frontendmentor.io/challenges/launch-countdown-timer-N0XkGfyz-). Since I don't own a premium account I couldn't access the design file, therefore I had to follow the screenshots.
 
-[Preview](https://piotrfijol.github.io/countdown-timer)
-
-[Source code](https://github.com/piotrfijol/countdown-timer)
+[Preview](https://piotrfijol.github.io/countdown-timer) &nbsp;  [Source code](https://github.com/piotrfijol/countdown-timer)
 
 ### 2. Landwind landing page
 
 In this project I wrote a code for a landing page using React, TailwindCSS and some of the Flowbite's components. 
 The design for the page was created by [Themesberg](https://www.figma.com/@themesberg), it can be found on [Figma's website](https://www.figma.com/community/file/1125744163617429490).
 
-[Preview](https://piotrfijol.github.io/landwind-landing-page)
-
-[Source code](https://github.com/piotrfijol/landwind-landing-page)
+[Preview](https://piotrfijol.github.io/landwind-landing-page) &nbsp;  [Source code](https://github.com/piotrfijol/landwind-landing-page)
   
 
 ### 3. Weather app
@@ -64,9 +60,7 @@ Web application that provides weather information for any location.
 Some of the tools that were used to create this project: TypeScript, SASS, React, Context API, React Query, OpenWeatherMap API and Vitest for unit testing
 I'm the author of both, the code and the design.
 
-[Preview](https://piotrfijol.github.io/weather)
-
-[Source code](https://github.com/piotrfijol/weather)
+[Preview](https://piotrfijol.github.io/weather) &nbsp;  [Source code](https://github.com/piotrfijol/weather)
 
 ## <a id="fullstack"></a>  Fullstack projects
 
